@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="stankin2.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="User1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ethanmars56@mail.ru</Value>
+    </Setting>
+    <Setting Name="Pass1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TgbcGh8Urj0M694jKdgN</Value>
+    </Setting>
+    <Setting Name="User2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">payne5656@mail.ru</Value>
+    </Setting>
+    <Setting Name="Pass2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TR09GU5RTTEjw6tkrSsx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
